@@ -1,0 +1,29 @@
+    .send-right {
+        text-align: right;
+    }
+    .formato {
+        border: 1px solid #ffff3f;
+        background-color: #ffff3f;
+        margin: 15px;
+        padding: 10px;
+    }
+
+    p {
+        line-height: 0.8;
+    }
+    h4 {
+        text-decoration: underline overline dotted #224409;
+        word-spacing: 10px;
+    }
+    img {
+        vertical-align: text-bottom;
+    }
+    q {
+        quotes: "'" "'";
+    }
+    p.test1 {
+        writing-mode: vertical-lr;
+    }
+    p.test2 {
+        writing-mode: horizontal-tb;
+    }
